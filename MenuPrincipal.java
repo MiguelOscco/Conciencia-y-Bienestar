@@ -17,7 +17,7 @@ public class MenuPrincipal {
         int opcion;
 
         do {
-            System.out.println("=== Menú Principal ===");
+            System.out.println("=== Menú Principal===");
             System.out.println("1. Verificar stock............................(1)");
             System.out.println("2. Crear orden de compra......................(2)");
             System.out.println("3. Gestión de orden...........................(3)");
